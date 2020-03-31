@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
-    <color name="background">#DDD8BA</color>
-    <color name="text">#512b58</color>
+    <color name="colorPrimary">#0066cc</color>
+    <color name="colorPrimaryDark">#003399</color>
+    <color name="colorAccent">#99ccff</color>
+    <color name="white">#ffffff</color>
+    <color name="lightGray">#eeeeee</color>
+    <color name="warningRed">#f0134d</color>
+    <color name="movea">#6534ac</color>
+    <color name="lightMovea">#ccccff</color>
+    <color name="blueGray">#d6e6f2</color>
+    <color name="lightPink">#ffcccc</color>
+    <color name="black">#512b58</color>
+    <color name="node">#DDD8BA</color>
+    <color name="orange">#fece2f</color>
+
+    <color name="cardBackground_1">#ccffff</color>
+    <color name="cardBackground_5">#66cccc</color>
+    <color name="cardBackground_8">#6699cc</color>
+    <color name="cardBackground_9">#330066</color>
+
 </resources>
